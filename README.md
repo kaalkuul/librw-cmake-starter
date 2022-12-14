@@ -16,7 +16,7 @@ GLFW on GitHub: [github.com/glfw/glfw](https://www.github.com/glfw/glfw)
 The easiest way to get hold of the starter code is to run the following command using a shell you can run git from:
 
 ```
-git clone --recursive https://github.com/kaalkuul/librw-cmake-starter.git
+git clone https://github.com/kaalkuul/librw-cmake-starter.git
 ```
 
 This will create the directory _librw-cmake-starter_.
